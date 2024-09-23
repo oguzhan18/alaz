@@ -1,0 +1,9 @@
+include: package:flutter_lints/flutter.yaml
+analyzer:
+  errors:
+    use_super_parameters: ignore
+    unused_import: ignore
+    unnecessary_import: ignore
+
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options
